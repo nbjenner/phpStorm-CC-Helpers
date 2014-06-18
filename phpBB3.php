@@ -1,6 +1,7 @@
 <?php 
 // Open phpBB3 root/common.php
 
+$a=1;
 // Add doc blocks above
 $cache	= new cache();
 $db	= new $sql_db();
